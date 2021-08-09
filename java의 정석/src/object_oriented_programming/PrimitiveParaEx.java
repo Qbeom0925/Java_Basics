@@ -1,6 +1,6 @@
 package object_oriented_programming;
 
-class Data {int x;}
+class Data{int x;}
 
 public class PrimitiveParaEx {
 
